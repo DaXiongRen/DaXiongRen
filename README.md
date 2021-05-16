@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaXiongRen
-- 👀 I’m interested in java
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Java development
 - 📫 Email:3565765357@qq.com
 
