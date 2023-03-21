@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @DaXiongRen
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java development
 - 📫 Email:daxiongren@foxmail.com
 
 <!---
